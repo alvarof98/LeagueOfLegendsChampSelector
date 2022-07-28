@@ -1,5 +1,8 @@
 # LeagueOfLegendsChampSelectorv1.0.0
 
+-alvarof98.github.io --> Contiene los notebooks donde he creado todo el trabajo de machine learning, y la WebApp donde se encuentra la parte front-end
+-alvarofPython.github.io --> Contiene los scripts de python y los modelos.pkl que se ejecutan en un servidor aparte y componen la parte back-end
+
 Para inicializar el servidor se han de cumplir los siguientes requisitos:
 1. Desplegar el repositorio obscure-harbor-96731 (descargar heroku y registrarse en heroku)
 
