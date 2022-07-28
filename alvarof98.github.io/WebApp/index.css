@@ -1,0 +1,79 @@
+#header {
+  background-color: #55ccc8;
+  text-align: center;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 80px;
+}
+
+body {
+  background-image: url("19_Karma.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+footer {
+  background-color: #55ccc8;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 30px;
+  text-align: center;
+}
+
+#champ_predict{
+  padding: 10px;
+  position: absolute;
+  top: 300;
+  left: 300;
+  background-color: white;
+  float: left;
+  width: 400px;
+  height: 450px;
+  border:3px solid brown;
+  border-radius:22px;
+}
+
+#toxic_predict{
+  padding: 10px;
+  border:3px solid brown;
+  border-radius:22px;
+  position: absolute;
+  top: 300;
+  left: 1200;
+  background-color: white;
+  float: left;
+  width: 400px;
+  height: 450px;
+}
+
+.toxic_titulo{
+  text-align: center;
+}
+
+#predict_titulo{
+  text-align: center;
+}
+
+input{
+  border:3px solid brown;
+  border-radius:22px;
+  background-color: grey;
+}
+
+.boton {
+  background-color: grey;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#lista_0{
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
